@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on creating my personal webiste.
+- 🌱 I’m currently learning analysis of algorithms and databases.
+- 📫 How to reach me: WilsonCN14@gmail.com
+
 <!--
 **WilsonCN14/WilsonCN14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
