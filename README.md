@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on creating my personal webiste.
-- 🌱 I’m currently learning analysis of algorithms and databases.
+- 🌱 I’m currently learning operating systems and parallel programming.
 - 📫 How to reach me: WilsonCN14@gmail.com
 
 <!--
