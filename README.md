@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating my personal webiste.
+- 🔭 I’m currently working on creating a video game using Flutter.
 - 🌱 I’m currently learning operating systems and parallel programming.
 - 📫 How to reach me: WilsonCN14@gmail.com
 
