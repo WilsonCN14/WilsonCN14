@@ -1,7 +1,7 @@
 ### Hello! Welcome to my GitHub page! 👋
 
-- 🔭 I’m currently working on various small personal projects
-- 🌱 I’m currently learning Unity
+- 🔭 I’m currently working on creating a 2D game in Unity called Snowflake Catcher.
+- 🌱 I’m currently learning Unity. I'm following Unity Learn's Junior Programmer learning pathway.
 - 📫 How to reach me: WilsonCN14@gmail.com
 - ⚡ Fun fact: My current favorite hobby is painting with acrylics. I'm currently working on a winter painting with a cabin next to a lake.
 
