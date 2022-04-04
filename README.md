@@ -1,9 +1,9 @@
 ### Hello! Welcome to my GitHub page! 👋
 
-- 🔭 I’m currently working on remaking my ChrisTy's Gameshop website I made two years ago for my Web Development course
-- 🌱 I’m currently learning more about web development. I'm watching various LinkedIn Learning courses.
+- 🔭 I’m currently working on remaking my portfolio website. 
+- 🌱 I’m currently learning more about web development. I'm following the Become a Web Developer learning path in LinkedIn Learning.
 - 📫 How to reach me: WilsonCN14@gmail.com
-- ⚡ Fun fact: My current favorite hobby is painting with acrylics. I'm currently working on a winter painting with a cabin next to a lake.
+- ⚡ Fun fact: My current favorite hobby is painting with acrylics. I'm currently working on a spring painting of a river flowing next to a mountain.
 
 <!--
 **WilsonCN14/WilsonCN14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
