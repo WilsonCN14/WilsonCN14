@@ -1,6 +1,6 @@
 ### Hello! Welcome to my GitHub page! 👋
 
-- 🔭 I’m currently working on remaking my portfolio website. 
+- 🔭 I’m currently working on creating a one-page responsive layout based on Bath and Body Work's homepage.
 - 🌱 I’m currently learning more about web development. I'm following the Become a Web Developer learning path in LinkedIn Learning.
 - 📫 How to reach me: WilsonCN14@gmail.com
 - ⚡ Fun fact: My current favorite hobby is painting with acrylics. I'm currently working on a spring painting of a river flowing next to a mountain.
