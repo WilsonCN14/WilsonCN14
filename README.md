@@ -1,7 +1,7 @@
 ### Hello! Welcome to my GitHub page! 👋
 
-- 🔭 I’m currently working on creating one-page responsive layouts. My current project is building a Wedding Page.
-- 🌱 I’m currently learning more about web development. I'm following the Become a Web Developer learning path in LinkedIn Learning.
+- 🔭 I’m currently working on creating a calculator app coded with React.js.
+- 🌱 I’m currently learning about React.js, a JavaScript frontend framework.
 - 📫 How to reach me: WilsonCN14@gmail.com
 - ⚡ Fun fact: My current favorite hobby is painting with acrylics. I'm currently working on a spring painting of a river flowing next to a mountain.
 
