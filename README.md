@@ -1,9 +1,8 @@
 ### Hello! Welcome to my GitHub page! 👋
 
-- 🔭 I’m currently working on creating a calculator app coded with React.js.
-- 🌱 I’m currently learning about React.js, a JavaScript frontend framework.
+- 🌱 I’m currently learning how to code in Java.
 - 📫 How to reach me: WilsonCN14@gmail.com
-- ⚡ Fun fact: My current favorite hobby is painting with acrylics. I'm currently working on a spring painting of a river flowing next to a mountain.
+- ⚡ Fun fact: One of my favorite hobbies is painting with acrylics. I'm currently working on a spring painting of a river flowing next to a mountain.
 
 <!--
 **WilsonCN14/WilsonCN14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
